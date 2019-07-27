@@ -9,7 +9,7 @@ cool programming links
 - [materializec](https://materializecss.com/) Material Design Css
 
 ## Frontend
-- (Svelte)[https://svelte.dev/] compiled reactive framework 
+- [Svelte](https://svelte.dev/) compiled reactive framework 
 
 ## Cryptography
 - [Legion of the Bouncy Castle](https://bouncycastle.org/)
