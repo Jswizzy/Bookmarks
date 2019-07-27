@@ -24,3 +24,8 @@ cool programming links
 
 ## Desktop
 - [TornadoFx](https://tornadofx.io/) JavaFx Kotlin DSL and Framework
+
+## Langauge docs
+- [Kotlin](https://kotlinlang.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [MDN Web Docs](https://developer.mozilla.org/en-US/)
