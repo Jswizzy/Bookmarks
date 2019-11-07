@@ -37,4 +37,5 @@ cool programming links
 - [DataBinding Codelab](https://codelabs.developers.google.com/codelabs/android-databinding)
 - [Fused Location Provider API](https://developers.google.com/location-context/fused-location-provider/)
 - [Geofencing API](https://developers.google.com/location-context/geofencing/)
+- [Design Patterns Kotlin](https://github.com/dbacinski/Design-Patterns-In-Kotlin)
 
