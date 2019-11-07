@@ -35,4 +35,6 @@ cool programming links
 - [Room with a View Codelab](https://codelabs.developers.google.com/codelabs/android-room-with-a-view-kotlin)
 - [Navigation Codelab](https://codelabs.developers.google.com/codelabs/android-navigation)
 - [DataBinding Codelab](https://codelabs.developers.google.com/codelabs/android-databinding)
+- [Fused Location Provider API](https://developers.google.com/location-context/fused-location-provider/)
+- [Geofencing API](https://developers.google.com/location-context/geofencing/)
 
