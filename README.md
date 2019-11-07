@@ -29,3 +29,10 @@ cool programming links
 - [Kotlin](https://kotlinlang.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [MDN Web Docs](https://developer.mozilla.org/en-US/)
+
+## Android
+- [Android Dev w/ Kotlin Course](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012)
+- [Room with a View Codelab](https://codelabs.developers.google.com/codelabs/android-room-with-a-view-kotlin)
+- [Navigation Codelab](https://codelabs.developers.google.com/codelabs/android-navigation)
+- [DataBinding Codelab](https://codelabs.developers.google.com/codelabs/android-databinding)
+
