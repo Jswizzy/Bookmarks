@@ -1,6 +1,8 @@
 # Bookmarks
 cool programming links
 
+# Web
+
 ## Design
 - [Material Design](https://material.io/)
 
@@ -12,8 +14,12 @@ cool programming links
 ## Frontend
 - [Svelte](https://svelte.dev/) compiled reactive framework 
 
+# Security
+
 ## Cryptography
 - [Legion of the Bouncy Castle](https://bouncycastle.org/)
+
+# Android
 
 ## HTTP Clients
 - [Fuel]() - Kotlin Android/JVM
@@ -22,20 +28,20 @@ cool programming links
 ## JSON
 - [Moshi]() - Kotlin
 
-## Desktop
-- [TornadoFx](https://tornadofx.io/) JavaFx Kotlin DSL and Framework
-
-## Langauge docs
-- [Kotlin](https://kotlinlang.org/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [MDN Web Docs](https://developer.mozilla.org/en-US/)
-
-## Android
-- [Android Dev w/ Kotlin Course](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012)
-- [Room with a View Codelab](https://codelabs.developers.google.com/codelabs/android-room-with-a-view-kotlin)
-- [Navigation Codelab](https://codelabs.developers.google.com/codelabs/android-navigation)
-- [DataBinding Codelab](https://codelabs.developers.google.com/codelabs/android-databinding)
+## GIS
 - [Fused Location Provider API](https://developers.google.com/location-context/fused-location-provider/)
 - [Geofencing API](https://developers.google.com/location-context/geofencing/)
+
+## Storage
+- [Room with a View Codelab](https://codelabs.developers.google.com/codelabs/android-room-with-a-view-kotlin)
+
+## Tutorials
+- [Android Dev w/ Kotlin Course](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012)
+- [Navigation Codelab](https://codelabs.developers.google.com/codelabs/android-navigation)
+- [DataBinding Codelab](https://codelabs.developers.google.com/codelabs/android-databinding)
 - [Design Patterns Kotlin](https://github.com/dbacinski/Design-Patterns-In-Kotlin)
+
+# GIS Geospatial Information Systems
+
+- [GDAL](https://gdal.org/) GDAL is a translator library for raster and vector geospatial data formats
 
